@@ -33,6 +33,7 @@ This data was provided by Mr. Oyinbooke Olanrewaju @theoyinbooke after the compl
 https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/main/Airline%20Project/Airplane_Crashes_and_Fatalities_Since_1908.csv
 
 The data is imported as a CSV file to Excel from web by clicking on **Get Data** under data tab, click on other sources and then from WEB.
+![DaTransform 001b](https://user-images.githubusercontent.com/102861459/179952383-74944e03-30cb-4068-8e43-13a75051f62f.png)
 ![DaTransform 002](https://user-images.githubusercontent.com/102861459/179799842-d05d78c2-ff7d-4642-ac6c-36c285e5dcda.png)
 
 # DATA TRANSFORAMTION
