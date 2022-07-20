@@ -80,6 +80,9 @@ The choice of colour was to lay emphasis on the subject matter and the story
 •	Ground - Total killed on the ground
 •	Summary - Brief description of the accident and cause if known
 
+**DATA MODEL**
+![Data Model](https://user-images.githubusercontent.com/102861459/179967675-ffbda1cf-15d1-472f-8402-d96e33d8cfc5.png)
+
 # RECOMMENDATION
 From the research and analysis carried out during the course of the project, the following are recommended;
 1. It is advisable that the avaiation control house and the pilots work together so as to prevent airplane crash and also save lives.
