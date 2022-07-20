@@ -88,4 +88,4 @@ From the research and analysis carried out during the course of the project, the
 1. It is advisable that the avaiation control house and the pilots work together so as to prevent airplane crash and also save lives.
 2. Proper maintenance of the aircraft and constant check should be carried out before making use of the aircraft for transportation.
 3. During trainings novice or beginners should be properly monitored when training.
-4. Though weather conditions can be unpredictable sometimes, it is advisable that the weather and climate station to be atleast 99.98% sure of the weather conditons before the aircrafts take off. 
+4. Though weather conditions can be unpredictable sometimes, it is advisable that the weather and climate station to be absolutely sure of the weather conditons before the aircrafts take off. 
